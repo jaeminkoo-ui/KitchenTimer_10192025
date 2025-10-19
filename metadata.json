@@ -1,0 +1,5 @@
+{
+  "name": "Kitchen Timer App",
+  "description": "A multi-timer kitchen app that allows users to manage 6 simultaneous timers with preset cooking menus. Users can add, edit, and delete menus, which are saved locally.",
+  "requestFramePermissions": []
+}
